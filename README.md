@@ -36,6 +36,7 @@ Use the controls to explore the graph or hover over the nodes to see data.
 ```markdown
 Network
 - Time period: December 2019 - April 2020
-- Giant component: 94 domains make up the giant component of the network with over 300 connections
+- Giant component: 94 domains make up the giant component 
+- Connectivity: Network has over 300 edges
 
 ```
